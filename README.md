@@ -1,12 +1,11 @@
-# Data_Analysis-Korea_Baseball_Team_Regression
-## 2017 KBO Baseball Team Rank Prediciton
-### Propose
+# 2017 KBO Baseball Team Rank Prediciton
+## Propose
 - How will the 2017 KBO Baseball rankings be concluded?
 - Is Pythagorean winning rate correlated with kbo baseball rankings?
 - Which indicator correlates with baseball winning rates? <br/>
 - Additional) Compare a player's ERA with a player's winning rate
-### Method
-#### Each method was applied using the R program.
+## Method
+### Each method was applied using the R program.
 - Linear Regression Method
 > To measure correlation coefficients associated with dependent variables <br/>
 > Dependent variable: winning rate
@@ -28,7 +27,7 @@
 
 ![단일 회귀 2](https://user-images.githubusercontent.com/63955072/122673783-0aa62300-d20d-11eb-8cf2-239b2165ae89.png)
 
-### Analysis
+## Analysis
 - Linear Regression Result
 
 <img width="686" alt="Linear Regression 2" src="https://user-images.githubusercontent.com/63955072/122663890-a5d0d580-d1d8-11eb-8f32-6b19467fc4ee.PNG">
@@ -63,7 +62,7 @@
 
 <img width="1025" alt="단일 회귀" src="https://user-images.githubusercontent.com/63955072/122673808-1c87c600-d20d-11eb-8e9e-7172535c972e.PNG">
 
-### Conclusion
+## Conclusion
 - Linear Regression
 > The linear regression extracts the correlated coefficients from each variable. <br/>
 > The extracted coefficients were used to predict each team's winning rate. <br/>
@@ -77,5 +76,3 @@
 > Extract meaningful independent variables <br/>
 > The relationship between team win rate and team defense rate was the highest. <br/>
 > The player's winning rate and the player's ERA were also highly correlated. <br/>
-
-
