@@ -5,7 +5,7 @@
 - Is Pythagorean winning rate correlated with kbo baseball rankings?
 - Which indicator correlates with baseball winning rates? <br/>
 - Additional) Compare a player's ERA with a player's winning rate
-### Analysis
+### Method
 #### Each method was applied using the R program.
 - Linear Regression Method
 > To measure correlation coefficients associated with dependent variables <br/>
@@ -28,7 +28,7 @@
 
 ![단일 회귀 2](https://user-images.githubusercontent.com/63955072/122673783-0aa62300-d20d-11eb-8cf2-239b2165ae89.png)
 
-### Output
+### Analysis
 - Linear Regression Result
 
 <img width="686" alt="Linear Regression 2" src="https://user-images.githubusercontent.com/63955072/122663890-a5d0d580-d1d8-11eb-8f32-6b19467fc4ee.PNG">
